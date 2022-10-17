@@ -53,7 +53,7 @@ input {
 }
 
 .h--1 {
-	font-size: 36px;
+	font-size: 34px;
 	line-height: 42px;
 }
 
@@ -297,7 +297,6 @@ header img {
 }
 
 .container .form form input {
-	height: 25px;
 	font-size: 18px;
 	padding: 10px 20px;
 }
@@ -403,12 +402,6 @@ footer .info {
 
 	footer .footer-content {
 		grid-template-columns: repeat(2, 1fr);
-	}
-}
-
-@media (max-width: 768px) {
-	.container .form form input {
-		height: 15px;
 	}
 }
 
